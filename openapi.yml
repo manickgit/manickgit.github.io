@@ -400,6 +400,7 @@ paths:
       summary: Insert one of the order details
       description: Insert one of the order details into Eazyshop
       operationId: demoOneOf
+      security: []
       requestBody:
         content:
           application/json:
